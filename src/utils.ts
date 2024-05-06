@@ -1,4 +1,5 @@
 import { nextTick } from 'vue';
+// @ts-ignore
 import { LinePath } from 'svg-dom-arrows';
 
 import Node from '@/structures/Node';
